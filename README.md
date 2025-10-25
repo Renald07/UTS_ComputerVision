@@ -54,19 +54,3 @@ UTS_ComputerVision/
 ```
 
 ---
-
-## 📸 Screenshot Hasil Akhir
-(Masukkan screenshot dari file `final.png` di sini setelah dijalankan)
-
----
-
-## 💻 Cara Menjalankan
-1. Install dependensi:
-   ```bash
-   pip install opencv-python numpy
-   ```
-2. Jalankan:
-   ```bash
-   python karakter.py
-   ```
-3. Hasil akan tersimpan otomatis di folder `/output`.
